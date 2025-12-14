@@ -18,7 +18,7 @@ FARFormer explores a consistency-oriented modeling strategy to improve robustnes
 
 ## Scope
 
-- Multimodal semantic segmentation (RGB-D / RGB-T)  
+- Multimodal semantic segmentation
 - Robust feature learning under modality degradation  
 - Real-world perception in challenging environments
 
